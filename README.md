@@ -1,4 +1,4 @@
-# Predicting-House-Prices-in-Bengaluru
+# Predicting House Prices in Bengaluru
 
 Data - https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 
